@@ -5,3 +5,5 @@ hey ai take an request from the user
 user will give the input
 based on that input ai 
 will give an response
+
+we get the data from the open ai database
