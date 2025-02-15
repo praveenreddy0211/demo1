@@ -1,3 +1,7 @@
 Hello World!
 Welcome to our WORLD!
 It is an Ai WORLD!
+hey ai take an request from the user
+user will give the input
+based on that input ai 
+will give an response
